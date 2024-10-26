@@ -1,13 +1,13 @@
-# Explanation of Changes:
+# Αλλαγές που έκανα:
 <ul>
   
   <li>Helper Methods for Calculations:</li>
-        <ul><li>_calculate_bit_array_size and _calculate_num_hash are now @staticmethods since they don’t need class or instance attributes.</li></ul><br>
+        <ul><li>_calculate_bit_array_size και _calculate_num_hash έγιναν @staticmethods επειδή δεν χρειάζονται class ή instance attributes.</li></ul><br>
   
   <li>Batch Addition Method:</li>
-        <ul><li>add_elements is a helper method to add multiple elements to the Bloom filter at once, improving readability in the test script.</li></ul><br>
+        <ul><li> Η μέθοδος add_elements είναι μια βοηθητική μέθοδος που προσθέτει πολλαπλά στοιχεία στο Bloom Filter ταυτόχρονα, βελτιώνοντας την αναγνωσιμότητα(readability) του test file."</li></li></ul><br>
   
   <li>Improved Comments and Naming:</li>
-        <ul><li>Renamed filter_element to add and check_element to contains for clearer, more conventional names.</li></ul><br>
+        <ul><li>Μετονόμασα την filter_element σε add και την check_element σε contains.</li></ul><br>
 
 </ul>
