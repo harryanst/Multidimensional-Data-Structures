@@ -1,6 +1,6 @@
-<h1>Υλοποίηση Bloom Filter</h1> 
+<h1>1.) Υλοποίηση Bloom Filter</h1> 
 
-<h1>MDS Project 2024-25</h1> 
+<h1>2.) MDS Project 2024-25</h1> 
 
  
 
